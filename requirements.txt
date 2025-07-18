@@ -1,1 +1,6 @@
 plotly
+pandas
+numpy
+openpyxl
+jinja2
+matplotlib
